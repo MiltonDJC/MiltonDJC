@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### 💻 I'm currentrly working on my portfolio's projects.<br>⭐ I'm currentrly learning the tecnologies that i need to use for be a Fullstack Developer.
+💻 I'm currentrly working on my portfolio's projects.<br>⭐ I'm currentrly learning the tecnologies that i need to use for be a Fullstack Developer.
 
 
 ## 🌐 Socials:
