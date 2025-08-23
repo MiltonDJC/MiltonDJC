@@ -1,5 +1,5 @@
 # 💫 About Me
-**💻 I'm currently working on my portfolio's projects.<br>⭐ I'm learning the tecnologies that i need to use for be a `Fullstack Developer`.**
+**💻 I'm currently working on my portfolio's projects.<br>⭐ I'm learning the tecnologies that i need to use for be a `Mobile Developer`.**
 
 # 💻 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
