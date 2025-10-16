@@ -13,7 +13,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/milton-de-jesus-coria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/milton-de-jesus-coria)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=MiltonDJC&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
