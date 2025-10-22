@@ -18,17 +18,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-de-jesus-coria/)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=MiltonDJC&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MiltonDJC&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonDJC&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-<!-- 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MiltonDJC&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-
-<!-- --- -->
-<!-- [![](https://visitcount.itsvg.in/api?id=MiltonDJC&icon=2&color=1)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![MiltonDJC's Stats](https://github-readme-stats.vercel.app/api?username=MiltonDJC&theme=dark&show_icons=true&hide_border=true&count_private=true)</br>
+![MiltonDJC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiltonDJC&theme=dark&hide_border=true)</br>
+![MiltonDJC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonDJC&theme=dark&show_icons=true&hide_border=true&layout=compact)
