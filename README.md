@@ -5,8 +5,12 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![API](https://img.shields.io/badge/API-ffffff.svg?style=for-the-badge&logo=postman&logoColor=orange)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-1a96fb.svg?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+<!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 
 ## 🛠️ Other tools
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -18,6 +22,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-de-jesus-coria/)
 
 ## 📊 GitHub Stats
-![MiltonDJC's Stats](https://github-readme-stats.vercel.app/api?username=MiltonDJC&theme=dark&show_icons=true&hide_border=true&count_private=false)</br>
-![MiltonDJC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiltonDJC&theme=dark&hide_border=true)</br>
-![MiltonDJC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonDJC&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![MiltonDJC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiltonDJC&theme=dark&hide_border=true)
